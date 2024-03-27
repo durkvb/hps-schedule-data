@@ -4,41 +4,28 @@
       "id": "hhsa",
       "title": "HHS A-Lunch",
       "periods": [
-	      { "id": "1", "start": "7:45", "end": "8:52", "nextStart": "8:59" },
-        { "id": "2", "start": "8:57", "end": "10:04", "nextStart": "10:09"},
-        { "id": "L", "start": "10:09", "end": "10:34", "nextStart": "10:39" },
-		    { "id": "3", "start": "10:39", "end": "11:46", "nextStart": "11:51" },
-        { "id": "4", "start": "11:51", "end": "12:58", "nextStart": "13:03" },
-        { "id": "5", "start": "13:03", "end": "14:10", "nextStart": "14:15" },
-		    { "id": "H", "start": "14:15", "end": "14:43", "nextStart": "14:43" }
+	      { "id": "1", "start": "8:00", "end": "8:50", "nextStart": "8:55" },
+        { "id": "2", "start": "8:55", "end": "9:45", "nextStart": "9:50"},
+        { "id": "3", "start": "9:50", "end": "10:40", "nextStart": "10:45" },
+		    { "id": "4", "start": "10:45", "end": "11:35", "nextStart": "11:40" },
+        { "id": "L", "start": "11:40", "end": "12:00", "nextStart": "12:05" },
+        { "id": "5", "start": "12:05", "end": "12:55", "nextStart": "13:00" },
+		    { "id": "6", "start": "13:00", "end": "13:50", "nextStart": "13:55" },
+        { "id": "7", "start": "13:55", "end": "14:45", "nextStart": "14:45" }
 		 ]
     },
     {
       "id": "hhsb",
       "title": "HHS B-Lunch",
       "periods": [
-	      { "id": "1", "start": "7:45", "end": "8:52", "nextStart": "8:57" },
-        { "id": "2", "start": "8:57", "end": "10:04", "nextStart": "10:09"},
-        { "id": "3", "start": "10:09", "end": "11:16", "nextStart": "11:16" },
-		    { "id": "L", "start": "11:16", "end": "11:46", "nextStart": "11:51" },
-        { "id": "4", "start": "11:51", "end": "12:58", "nextStart": "13:03" },
-        { "id": "5", "start": "13:03", "end": "14:10", "nextStart": "14:15" },
-		    { "id": "H", "start": "14:15", "end": "14:43", "nextStart": "14:43" }
-      ]
-    },
-    {
-      "id": "hhsc",
-      "title": "HHS C-Lunch",
-      "periods": [
-        { "id": "1", "start": "7:45", "end": "8:48", "nextStart": "8:58" },
-        { "id": "2", "start": "8:58", "end": "10:01", "nextStart": "10:11"},
-        { "id": "3", "start": "10:11", "end": "11:14", "nextStart": "11:14" },
-        { "id": "L", "start": "11:14", "end": "12:17", "nextStart": "12:27" },
-        { "id": "M", "start": "10:11", "end": "10:39", "nextStart": "10:39" },
-        { "id": "3", "start": "10:39", "end": "11:42", "nextStart": "11:47" },
-        { "id": "L", "start": "11:47", "end": "12:17", "nextStart": "12:27" },
-        { "id": "4", "start": "12:27", "end": "13:30", "nextStart": "13:40" },
-        { "id": "5", "start": "13:40", "end": "14:43", "nextStart": "14:43" }
+	      { "id": "1", "start": "8:00", "end": "8:50", "nextStart": "8:55" },
+        { "id": "2", "start": "8:55", "end": "9:45", "nextStart": "9:50"},
+        { "id": "3", "start": "9:50", "end": "10:40", "nextStart": "10:45" },
+		    { "id": "4", "start": "10:45", "end": "11:35", "nextStart": "11:40" },
+        { "id": "5", "start": "11:40", "end": "12:30", "nextStart": "12:35" },
+        { "id": "L", "start": "12:35", "end": "12:55", "nextStart": "13:00" },
+		    { "id": "6", "start": "13:00", "end": "13:50", "nextStart": "13:55" },
+        { "id": "7", "start": "13:55", "end": "14:45", "nextStart": "14:45" }
       ]
     }
   ],
