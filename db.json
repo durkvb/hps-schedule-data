@@ -44,7 +44,7 @@
   ],
   "hms": [
     {
-      "id": "hmsa",
+      "id": "hms6",
       "title": "HMS A-Lunch",
       "periods": [
 	      { "id": "1", "start": "8:00", "end": "8:50", "nextStart": "8:55" },
@@ -59,7 +59,7 @@
 		 ]
     },
     {
-      "id": "hmsb",
+      "id": "hms7",
       "title": "HMS B-Lunch",
       "periods": [
 	      { "id": "1", "start": "8:00", "end": "8:50", "nextStart": "8:55" },
